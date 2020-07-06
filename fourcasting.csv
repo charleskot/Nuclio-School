@@ -1,0 +1,361 @@
+Alumno,Fecha,Canal,Comercial,Tipo de Pago,1 Pago,Precio,Edición
+Lilieth,19/12/2018,Referral,Otros,Contado,5000,5000,DTM0419
+Enrique Contreras,19/12/2018,Direct,Otros,Contado,5175,5175,DPM0419
+Gerard Costa,01/02/2019,Direct,Otros,Plazos,536,3500,DPM0419
+Alberto Mozo,08/02/2019,Paid Media,Otros,Plazos,350,3500,DPM0919
+Carla Garcia,21/02/2019,Redes Sociales,Otros,Contado,4000,4000,DPM0419
+Eduardo Holgado,18/03/2019,Organic,Albert Cobacho,Contado,4095,4095,DPM0419
+Catalina Grillo,22/03/2019,Redes Sociales,Albert Cobacho,Plazos,650,3900,DPM0220
+Francisco Rey,27/03/2019,Redes Sociales,Albert Cobacho,Plazos,650,4095,DPM0419
+Liana Andreiescu,28/03/2019,Redes Sociales,Otros,Contado,4225,4225,DPM0919
+Luciano Lossendiere,29/03/2019,Direct,Albert Cobacho,Contado,4095,4095,DPM0919
+Alex Manyé,29/03/2019,Organic,Albert Cobacho,Plazos,650,4095,DPM0419
+Julian Segura,29/03/2019,Organic,Albert Cobacho,Plazos,650,4095,DPM0419
+Patricia Martine,12/04/2019,Referral,Albert Cobacho,Contado,930,930,DTM0419
+Jose Delgado,17/04/2019,Paid Media,Albert Cobacho,Contado,4182,4182,DTM0419
+Patricia Lopez,16/04/2019,Referral,Albert Cobacho,Contado,5000,5000,DTM0419
+Bart Moreno,17/04/2019,Paid Media,Jorge Jimenez,Plazos,1976,3952,DTM1019
+Mar Villanueva,17/04/2019,Referral,Albert Cobacho,Plazos,465,930,DTM0419
+Beatriz Fagundo,23/04/2019,Referral,Albert Cobacho,Contado,930,930,DTM0419
+Miquel Ruano Oriola,24/04/2019,Referral,Jorge Jimenez,Contado,1240,1240,DTM0419
+Marta Pardo,24/04/2019,Referral,Jorge Jimenez,Contado,1240,1240,DTM0419
+Hugo Descalzo,25/04/2019,Paid Media,Jorge Jimenez,Plazos,1976,3952,DTM1019
+Franco Gonzalez Rivero,09/05/2019,Paid Media,Albert Cobacho,Contado,4399,4399,FSD0919
+Rafael Pérez Risco,10/05/2019,Redes Sociales,Albert Cobacho,Plazos,1000,4875,DPM0919
+Jorge Moreno,12/05/2019,Organic,Jorge Jimenez,Contado,3200,3200,SOB1019
+Carlos Ayala,17/05/2019,Redes Sociales,Albert Cobacho,Plazos,999,4650,DTM1019
+Javier Berger,22/05/2019,Direct,Jorge Jimenez,Plazos,1000,1969,DPM0919
+Mercedes Montecino,23/05/2019,Paid Media,Jorge Jimenez,Plazos,1000,4388,DPM0919
+Victor Obradors,24/05/2019,Organic,Jorge Jimenez,Plazos,900,4425,DPM0220
+Tania García Lopez,28/05/2019,Paid Media,Albert Cobacho,Contado,4143,4143,DPM0919
+Javier Sainz,07/06/2019,Paid Media,Jorge Jimenez,Contado,4420,4420,DPM0919
+Laura Nicolás Urbán,14/06/2019,Organic,Albert Cobacho,Contado Plazos,1000,3952,DTM1019
+David Pujadas Salgado,15/06/2019,Paid Media,Jorge Jimenez,Contado Plazos,1000,3689,DTM1019
+Jordi Capdevila Fatsini,15/06/2019,Referral,Jorge Jimenez,Contado Plazos,1000,3689,DTM1019
+Gerard Martínez,17/06/2019,Referral,Joel Orteu,Contado,3952,3953,DTM1019
+Rut Ferran Vila,19/06/2019,Direct,Joel Orteu,Contado,3952,3953,DTM1019
+David Maíllo,21/06/2019,Direct,Joel Orteu,Contado,4144,4144,DPM0919
+Anna Patricia Endrös Vilarrasa,27/06/2019,Redes Sociales,Jorge Jimenez,Contado,3600,3600,SOB1019
+Facundo Pretini,28/06/2019,Organic,Albert Cobacho,Contado Plazos,200,4420,DPM0919
+Marcel Subirana,08/07/2019,Paid Media,Jorge Jimenez,Contado Plazos,600,4420,DPM0919
+Zsofia Agnes Thurzo,09/07/2019,Paid Media,Joel Orteu,Contado Plazos,1000,4398,FSD0919
+Francisco Javier Parra Lopez,15/07/2019,Paid Media,Jorge Jimenez,Contado Plazos,1000,3867,DPM0919
+Ezequiel Rodriguez Amato,15/07/2019,Paid Media,Albert Cobacho,Plazos,1000,4960,DTM1019
+Alexander Cano,16/07/2019,Paid Media,Albert Cobacho,Contado,4399,4399,FSD0919
+Lorena Jané,17/07/2019,Paid Media,Jorge Jimenez,Contado,3450,3450,FSD0919
+Brais Comesaña,17/07/2019,Direct,Albert Cobacho,Contado,3450,3450,FSD0919
+Mostapha Achmia,17/07/2019,Organic,Jorge Jimenez,Contado Plazos,1000,4399,FSD0919
+Juan Suzanne,18/07/2019,Direct,Jorge Jimenez,Contado Plazos,1000,4399,FSD0919
+María Castro Zuzuarregui,20/07/2019,Paid Media,Albert Cobacho,Contado Plazos,1000,4420,DPM0919
+Angel Blanco,26/07/2019,Direct,Joel Orteu,Contado,3450,3450,FSD0919
+Carlos Montenegro,29/07/2019,Paid Media,Jorge Jimenez,Plazos,500,5200,DPM0919
+Erica Rios Forcada,30/07/2019,Paid Media,Joel Orteu,Plazos,600,4399,DTM0520
+Christian Delgado de la Puente,01/08/2019,Organic,Albert Cobacho,Contado,4420,4420,DPM0919
+Juan Diego Mendez,02/08/2019,Direct,Albert Cobacho,Contado Plazos,1000,4420,DPM0919
+Máximo Robles,02/08/2019,Paid Media,Albert Cobacho,Contado Plazos,500,3600,SOB1019
+Manuel Vera Medina,05/08/2019,Organic,Ahmad Halloun,Contado,4420,4420,DPM0919
+Emanuela Maria Damanti,07/08/2019,Paid Search,Joel Orteu,Contado Plazos,400,3867,DPM0919
+Manel Arriola Raja,08/08/2019,Direct,Albert Cobacho,Contado,4420,4420,DPM0919
+Daniel Brito,09/08/2019,Paid Search,Albert Cobacho,Contado Plazos,1000,4973,DPM0919
+Cedric Gobber,09/08/2019,Paid Media,Joel Orteu,Contado,4420,4420,DPM0919
+Daniel Delgado Foruria,11/08/2019,Direct,Jorge Jimenez,Contado Plazos,1000,4225,DPM0919
+Daniela Rojas,16/08/2019,Paid Media,Joel Orteu,Plazos,500,4650,DTM1019
+Natalia Compres,14/08/2019,Paid Search,Joel Orteu,Plazos,500,4650,DTM1019
+Ingrid Antolino Feijóo,19/08/2019,Paid Media,Jorge Jimenez,Contado Plazos,1000,4144,DPM0220
+Andres Alberto Devia Torres,29/08/2019,Direct,Irene Safer,Nemuru,4709,5175,FSD0919
+David J. Cabrera Gitto,04/09/2019,Paid Media,Irene Safer,Nemuru,4550,4550,DPM0919
+Gabriel Colombo,05/09/2019,Paid Media,Joel Orteu,Plazos,1000,4000,SOB1019
+Marcos Ivan Gerardo Perez,06/09/2019,Paid Media,Ahmad Halloun,Contado Plazos,1000,3600,SOB1019
+Alicia Tarrazo de la Fuente,09/09/2019,Paid Media,Jorge Jimenez,Plazos,500,4875,DPM0220
+Alicia Tarrazo de la Fuente,09/09/2019,Paid Media,Jorge Jimenez,Plazos,500,2170,DTM1019
+Almudena Ucha Gomez,10/09/2019,Referral,Albert Cobacho,Nemuru,3822,4200,DTM1019
+Iskra Tsonzarova,13/09/2019,Direct,Joel Orteu,Contado Plazos,1000,4399,FSD0919
+Laia Mira,13/09/2019,Paid Search,Irene Safer,Contado Plazos,1000,4216,DTM1019
+Marc Fernández Pereira,13/09/2019,Direct,Albert Cobacho,Contado Plazos,1000,4398,FSD0919
+Alfonso Trocoli,16/09/2019,Paid Search,Ahmad Halloun,Nemuru,4709,5175,FSD0919
+Marc Vicente,16/09/2019,Paid Search,Irene Safer,Contado Plazos,1000,4398,FSD0919
+Hussain Al-Essa,17/09/2019,Paid Media,Ahmad Halloun,Contado Plazos,1000,5576,DPM0320-ON
+Daniel Rubio López,17/09/2019,Direct,Jorge Jimenez,Nemuru,3119,3250,SOB1019
+Sofia Lanzinger,18/09/2019,Paid Media,Jorge Jimenez,Contado Plazos,1000,4399,FSD0919
+Davide Oneglio,18/09/2019,Paid Media,Irene Safer,Nemuru,4754,5175,FSD0919
+Nil Rodríguez,19/09/2019,Organic,Jorge Jimenez,Contado Plazos,3100,3600,SOB1019
+Silvia Sirera Gimeno,19/09/2019,Paid Media,Jorge Jimenez,Contado Plazos,2000,3600,SOB1019
+Tomás Augusto Sappia Volpe,20/09/2019,Direct,Joel Orteu,Plazos,1000,4650,DTM1019
+Silvia Carreño,20/09/2019,Paid Search,Irene Safer,Contado Plazos,1000,4398,DPM0220
+Jaume Meskini Carbonell,25/09/2019,Paid Search,Irene Safer,Contado,4399,4399,FSD0919
+Leandro Demarchi,26/09/2019,Direct,Joel Orteu,Contado Plazos,500,3600,SOB1019
+Joaquim Bravo,27/09/2019,Paid Search,Irene Safer,Contado Plazos,1000,4399,FSD0320
+Maria Pérez Cortadellas,27/09/2019,Direct,Irene Safer,Contado,4399,4399,DPM0920
+Xavier Onrubia Molina,30/09/2019,Direct,Irene Safer,Contado,3600,3600,SOB1019
+Xavier Donate Diaz,11/10/2019,Paid Media,Joel Orteu,Contado Plazos,500,3761,AA0919
+Karim Ghazal Pando,14/10/2019,Direct,Joel Orteu,Contado,4399,4399,FSD0320
+Malvina Andrea Garces Rodriguez,14/10/2019,Paid Media,Joel Orteu,Nemuru,4656,4656,DPM0220
+Salvador Bohigas,15/10/2019,Direct,Irene Safer,Contado Plazos,1000,3761,AA0919
+Rodrigo Cano,18/10/2019,Paid Media,Ahmad Halloun,Contado Plazos,1000,5535,DPM0320-ON
+Angelo Alencar Bianchi,22/10/2019,Organic,Jorge Jimenez,Contado Plazos,1000,4657,FSD0320
+Joan Cànaves Llitrà,22/10/2019,Paid Media,Irene Safer,Contado,4399,4399,DPM0220
+Javier Montón Ibañez,22/10/2019,Paid Media,Joel Orteu,Contado Plazos,1000,3600,SOB0220
+Juan Ravelo,22/10/2019,Paid Media,Joel Orteu,Contado Plazos,1000,3761,AA0919
+Francisco Jose Diaz Corrales,23/10/2019,Paid Search,Jorge Jimenez,Contado Plazos,1000,4399,DPM0220
+Hugo Daniel Suastegui,23/10/2019,Paid Media,Ahmad Halloun,Contado Plazos,1000,4398,FSD0520-EN
+Daniela-Alina Preda,24/10/2019,Paid Media,Ahmad Halloun,Contado Plazos,1000,5166,DPM0320-ON
+Carmen Iribarne,25/10/2019,Redes Sociales,Joel Orteu,Contado Plazos,1000,4144,DTM0120
+Maximiliano de la Iglesia,25/10/2019,Direct,Joel Orteu,Plazos,1000,4830,DPM0220
+Alejandro Tinto,25/10/2019,Paid Media,Irene Safer,Contado Plazos,1000,4376,AA0919
+Arnau Ramio,28/10/2019,Paid Media,Jorge Jimenez,Contado Plazos,1000,4399,FSD0920
+Priscila Neres do Nascimento,28/10/2019,Redes Sociales,Irene Safer,Nemuru,4569,4569,DTM0120
+Albert Figuerola Gómez,29/10/2019,Paid Media,Jorge Jimenez,Contado Plazos,1000,4399,FSD0320
+Mayser Maribel Valencia Clavijo,29/10/2019,Paid Media,Irene Safer,Nemuru,4709,4709,DPM0220
+Daniel Correa,30/10/2019,Direct,Joel Orteu,Nemuru,4000,4000,SOB0220
+Sílvia Bailén Puga,30/10/2019,Direct,Irene Safer,Contado,3761,3761,AA0919
+Hosman Javier Mora,31/10/2019,Direct,Joel Orteu,Nemuru,4754,4754,FSD0620
+Rafael Montini,31/10/2019,Referral,Joel Orteu,Nemuru,4755,4755,FSD0620
+Abel Florido,31/10/2019,Paid Media,Irene Safer,Contado Plazos,1000,4399,FSD0320
+Marc Maycas,05/11/2019,Paid Media,Ahmad Halloun,Contado Plazos,1000,4398,DPM0220
+Eva Planas,07/11/2019,Paid Search,Irene Safer,Contado Plazos,1000,4143,DTM0120
+Gustavo Higuera,12/11/2019,Paid Media,Jorge Jimenez,Nemuru,3761,3761,AA0919
+Aleix Ferrer,12/11/2019,Direct,Irene Safer,Contado Plazos,1000,4692,FSD0320
+Carlos Luis Mesa,12/11/2019,Paid Media,Irene Safer,Plazos,500,5520,DPM0220
+Alex Jimenez,12/11/2019,Organic,Joel Orteu,Contado Plazos,1000,3600,SOB0220
+Protech Pci,13/11/2019,Direct,Joel Orteu,Plazos,1000,2000,SOB0220
+Giulia Fadda,14/11/2019,Direct,Joel Orteu,Plazos,0,4000,SOB0220
+Daniel Walter Weselius,18/11/2019,Paid Media,Ahmad Halloun,Contado Plazos,1000,5535,DPM0320-ON
+Maria Landa,18/11/2019,Paid Media,Irene Safer,Contado Plazos,2000,4143,DTM0120
+Lisa Holland,18/11/2019,Direct,Ahmad Halloun,Contado,4879,4879,DPM0320-ON
+Laura Lázaro,18/11/2019,Paid Media,Joel Orteu,Nemuru,4436,4436,DTM0120
+Wanda Delisio,19/11/2019,Paid Media,Joel Orteu,Nemuru,4295,4295,AA0919
+Anna Gallart,21/11/2019,Direct,Joel Orteu,Nemuru,5023,5023,DPM0220
+Daniela Benrey,21/11/2019,Organic,Jorge Jimenez,Contado,4879,4879,DPM0520STR
+Davide Oneglio,22/11/2019,Paid Media,Irene Safer,Contado,1380,1380,FSD0320
+Tomas Lagomarsino,26/11/2019,Referral,Jorge Jimenez,Contado Plazos,1000,4262,AA0919
+Zhiting Lu,26/11/2019,Paid Search,Joel Orteu,Nemuru,5630,5630,FSD0620
+Manuel J. Chaves,27/11/2019,Direct,Joel Orteu,Nemuru,5023,5023,FSD0920
+ILKEN YORUK,27/11/2019,Paid Media,Jorge Jimenez,Contado Plazos,1000,4513,AA0919
+Martin Rey,29/11/2019,Paid Media,Joel Orteu,Contado Plazos,1000,4143,DTM0120
+Giulio Gotti,09/12/2019,Paid Media,Jorge Jimenez,Contado,4779,4779,AA0919
+Juan Pablo Aguirre,09/12/2019,Paid Search,Irene Safer,Nemuru,4713,4713,AA0919
+Myriam Yebenes Garcia,09/12/2019,Paid Media,Irene Safer,Contado Plazos,1000,4105,DPM0220
+Alberto Samper,10/12/2019,Paid Media,Joel Orteu,Nemuru,4875,4777,DTM0120
+Raul Arturo Espinosa Rativa,10/12/2019,Paid Media,Joel Orteu,Contado Plazos,1000,4720,AA0919
+Maria Rosario Marianeschi,11/12/2019,Paid Media,Joel Orteu,Contado Plazos,500,4530,DPM0320-ON
+Joaquim Badia,12/12/2019,Organic,Joel Orteu,Contado Plazos,1000,4513,AA0919
+Jordi Cuberes,13/12/2019,Paid Media,Joel Orteu,Nemuru,4934,4934,AA0919
+Alicia Ribas,16/12/2019,Paid Media,Joel Orteu,Contado Plazos,1000,3600,SOB0220
+David Alarcon,16/12/2019,Direct,Jorge Jimenez,Contado Plazos,1000,3867,DTM0120
+Ramon Monfort,17/12/2019,Paid Media,Jorge Jimenez,Contado Plazos,1000,4513,AA0919
+Nil Serras,17/12/2019,Paid Media,Jorge Jimenez,Contado Plazos,1000,3876,DTM0120
+Maritza Latife García Castillo,18/12/2019,Paid Media,Joel Orteu,Contado Plazos,1000,4143,DTM0120
+Raquel Da Silva,18/12/2019,Paid Media,Irene Safer,Nemuru,5203,5203,AA0919
+Carlos José López Vecchionacce,19/12/2019,Paid Media,Joel Orteu,Nemuru,4000,4000,SOB1019
+Albert Guasch,19/12/2019,Paid Media,Irene Safer,Contado Plazos,1000,4143,DTM0120
+Santiago Strella,19/12/2019,Paid Media,Jorge Jimenez,Nemuru,5865,5865,FSD0320
+Judith Schuermans,20/12/2019,Paid Media,Ahmad Halloun,Contado,4398,4398,DPM0220
+Gunda Bergmane,20/12/2019,Paid Media,Ahmad Halloun,Contado Plazos,500,4810,DBE062020
+Laura Portell,23/12/2019,Paid Media,Jorge Jimenez,Nemuru,5203,5203,AA0919
+Marah Abu Qasheh,27/12/2019,Paid Media,Gisela Moreno,Plazos,1000,6555,FSD0320
+Christ Lucien,27/12/2019,Paid Media,Veronica Cignoli,Contado Plazos,1000,4428,DPM0320-ON
+Faisal Nabi Khan,28/12/2019,Paid Media,Veronica Cignoli,Plazos,1000,4830,DPMEN0920-ON
+Marc Aloy Lopez,30/12/2019,Paid Media,Jorge Jimenez,Contado Plazos,1000,4143,DTM0120
+Malak Obeid,02/01/2020,Organic,Veronica Cignoli,Contado Plazos,1000,4428,DPM0320-ON
+Carlos Olis,07/01/2020,Paid Media,Joel Orteu,Nemuru,4777,4777,DTM0120
+Sergio Velayos,09/01/2020,Organic,Irene Safer,Contado Plazos,1000,4779,AA0919
+Judith Vázquez,09/01/2020,Organic,Joel Orteu,Nemuru,1000,5310,AA0919
+Núria Montanyà Vila,14/01/2020,Direct,Joel Orteu,Contado Plazos,1000,5520,DPM0220
+Eric Gonzalez Canova,14/01/2020,Direct,Veronica Cignoli,Contado Plazos,1000,4797,DTM0520
+Ursula Ruiz,17/01/2020,Organic,Joel Orteu,Contado Plazos,1000,4012,DSC0520
+Antonio Jesus Castillo Reche,17/01/2020,Paid Search,Joel Orteu,Contado Plazos,1000,4012,DSC0520
+Joel verdaguer,17/01/2020,Paid Media,Jorge Jimenez,Contado,4143,4143,DTM0520
+Juan Antonio Blanco Valdivia,20/01/2020,Paid Media,Jorge Jimenez,Contado Plazos,1000,4347,DSC0520
+Ana Rivas,20/01/2020,Paid Search,Jorge Jimenez,Contado Plazos,1000,3982,DSC0920
+Gianni Maggiora,21/01/2020,Paid Media,Jorge Jimenez,Nemuru,4491,4491,DSC0520
+Victoria Capriles,24/01/2020,Paid Media,Jorge Jimenez,Contado,4968,4968,DPM0220
+Sanae El Khteb Rhouneyech,24/01/2020,Paid Media,Joel Orteu,Contado Plazos,1000,4710,DSC0520
+Jose Maria Laplaud Salmerón,24/01/2020,Redes Sociales,Jorge Jimenez,Contado Plazos,1000,4248,DSC0520
+Fatih Arik,26/01/2020,Direct,Jordi Tena,Contado,4428,4428,DPM0320-ON
+Luis Manuel Barroso Denis,27/01/2020,Organic,Irene Safer,Contado Plazos,1000,5278,DPM0220
+José María Faura,28/01/2020,Direct,Irene Safer,Nemuru,5500,5500,FSD0320
+Salvador Albert Sánchez Campos,30/01/2020,Organic,Joel Orteu,Contado Plazos,500,4347,FSD0920
+Jelimir Vlastici,30/01/2020,Paid Media,Jordi Tena,Plazos,1000,4320,DM0520-EN
+Joaquin Dopazo,30/01/2020,Paid Media,Joel Orteu,Contado,1500,1500,DPM0220
+Cecilia Feiguin,30/01/2020,Organic,Irene Safer,Nemuru,4550,4550,DTM0520
+Maximiliane Bachnick,30/01/2020,Organic,Jorge Jimenez,Contado Plazos,1000,4050,SOB0220
+Miguel Bruque Ruiz,31/01/2020,Paid Search,Joel Orteu,Contado Plazos,500,4050,SOB0220
+ERIC SANCHEZ,31/01/2020,Direct,Joel Orteu,Nemuru,4440,4440,DSC0520
+Ila Travecedo,01/02/2020,Paid Media,Gisela Moreno,Contado Plazos,1000,4428,DPM0320-ON
+Oriol Plantada i Vidal,06/02/2020,Organic,Joel Orteu,Contado Plazos,1000,4050,SOB0220
+Cesar Losada Subirats,06/02/2020,Paid Media,Irene Safer,Contado,4050,4050,SOB0220
+Adriana Felez Salvado,06/02/2020,Paid Media,Joel Orteu,Contado Plazos,500,4050,SOB0220
+Mirko Siddi,10/02/2020,Direct,Irene Safer,Contado Plazos,500,4968,FSD0320
+Jaime Serradell Andreu,11/02/2020,Paid Media,Jorge Jimenez,Nemuru,4395,4395,FSD0620
+Raúl Alejandro Salcedo Murillo,17/02/2020,Paid Search,Joel Orteu,Plazos,500,4830,FSD0920
+Gabriela García Costa,18/02/2020,Direct,Jorge Jimenez,Plazos,1000,4830,DSC0920
+Valeria Aguerri Pereira,18/02/2020,Organic,Joel Orteu,Nemuru,4095,4095,SOB0220
+Carlos Joanell Rosas Villegas,19/02/2020,Paid Search,Jorge Jimenez,Contado Plazos,1000,4968,DSC0520
+Ana Erro,19/02/2020,Paid Media,Jorge Jimenez,Nemuru,4140,4140,DTM0520
+Natalja Kanaskina,20/02/2020,Paid Search,Joel Orteu,Contado Plazos,1000,4347,DPM0520
+Nesreen Abdullah,21/02/2020,Direct,Gisela Moreno,Contado Plazos,1000,4428,DPM0320-ON
+Daniel Yeregui Farran,21/02/2020,Paid Media,Jorge Jimenez,Contado,4050,4050,SOB0220
+Elizaveta Kurban,21/02/2020,Direct,Veronica Cignoli,Contado,3888,3888,DM0520-EN
+Angel Arturo Olivares Blancas,21/02/2020,Organic,Veronica Cignoli,Plazos,700,4830,DSC0920
+Xavier Peralta,25/02/2020,Direct,Irene Safer,Contado Plazos,1000,4968,FSD0320
+Luis Meza,25/02/2020,Direct,Jorge Jimenez,Contado Plazos,500,4968,DSC0520
+Marco Ferrolho,26/02/2020,Paid Media,Veronica Cignoli,Contado Plazos,1000,4428,DPM0320-ON
+Joaquin Sanchez,26/02/2020,Paid Media,Veronica Cignoli,Contado,3500,3500,DPM0320-ON
+Ahmed Dessouki,26/02/2020,Paid Media,Jordi Tena,Contado Plazos,1000,4428,DPM0320-ON
+Weaam Sinjab,26/02/2020,Paid Media,Ahmad Halloun,Plazos,500,500,DPM0320-ON
+Hajare Bouazzaoui,27/02/2020,Paid Media,Ahmad Halloun,Plazos,1000,1000,DM0520-EN
+Menna Ragauw,28/02/2020,Paid Media,Jordi Tena,Contado Plazos,1000,3717,DM0520-EN
+Sandra Estrada Ortiz,04/03/2020,Paid Media,Irene Safer,Contado Plazos,1000,4347,DPM0520
+Júlia Reñé,04/03/2020,Paid Media,Jorge Jimenez,Nemuru,4140,4140,DTM0520
+Juliana Díaz González,06/03/2020,Paid Media,Irene Safer,Nemuru,4526,4526,UXUI0620
+Aritz Ibarguen,06/03/2020,Organic,Jordi Tena,Contado Plazos,500,4347,DPM0520
+Bea Gómez Fernández,06/03/2020,Paid Search,Jorge Jimenez,Contado Plazos,1000,4347,DPM0520
+Marc Soronellas,06/03/2020,Paid Search,Jorge Jimenez,Contado Plazos,1000,4347,UXUI0620
+Juliana Montoya Monsalve,06/03/2020,Paid Media,Irene Safer,Nemuru,500,4440,UXUI0620
+Silvia Helena Lleras Echeverri,06/03/2020,Paid Media,Sergio del Frago,Contado,4347,4347,DPM0520
+Matteo Tausel,06/03/2020,Paid Media,Sergio del Frago,Contado,4347,4347,UXUI0620
+Alejandro Isasi-Isasmendi,10/03/2020,Paid Search,Joel Orteu,Contado Plazos,1000,4347,DPM0520
+Erika Kessler,11/03/2020,Paid Media,Veronica Cignoli,Plazos,1000,4830,DPM0320-ON
+Jehiel Ramos,12/03/2020,Paid Search,Joel Orteu,Contado,4095,4095,DTM0520
+Carlos Claudet Ames,12/03/2020,Paid Media,Joel Orteu,Plazos,1000,4830,DPM0520
+Gonçalo Gomes Mesquita,12/03/2020,Paid Search,Jorge Jimenez,Contado Plazos,1000,4968,DSC0520
+Andrei Abraztsou,13/03/2020,Paid Media,Veronica Cignoli,Contado Plazos,1000,4347,DPM0320-ON
+Pablo Sostres Larrosa,13/03/2020,Direct,Joel Orteu,Contado Plazos,500,3717,SOB1019
+Alex Almendro Boyer,13/03/2020,Direct,Joel Orteu,Contado Plazos,500,4968,DSC0520
+Marcos Muñoz,18/03/2020,Paid Media,Irene Safer,Nemuru,4395,4395,FSD0620
+Cristina Juarez Batlle,19/03/2020,Paid Media,Jorge Jimenez,Contado Plazos,1000,4968,DPM0520
+Medjgal Habil,19/03/2020,Paid Media,Veronica Cignoli,Contado Plazos,500,4347,DPM0320-ON
+Luis Alberto Duran Alvarez,20/03/2020,Paid Media,Sergio del Frago,Contado Plazos,1800,4830,FSD0620
+Gemma Grau Rey,22/03/2020,Paid Media,Sergio del Frago,Contado,4095,4095,DTM0520
+José Godoy Moreno,25/03/2020,Paid Media,Irene Safer,Contado Plazos,500,2565,DTM0520STR
+Antonio Dulcet,25/03/2020,Referral,Irene Safer,Contado Plazos,500,2565,DTM0520STR
+Renato Fabio Rezende,25/03/2020,Paid Media,Irene Safer,Nemuru,4140,4140,DTM0520
+Cristian Moreno,25/03/2020,Paid Media,Joel Orteu,Plazos,300,4550,DTM0520
+Ali Mirkarimi,26/03/2020,Paid Media,Veronica Cignoli,Contado Plazos,1000,1000,DM0520-EN
+Albert Munné,26/03/2020,Paid Media,Joel Orteu,Contado Plazos,300,2757,DPM0520STR
+Kanval Sehmi,27/03/2020,Paid Media,Jordi Tena,Contado Plazos,1000,4347,DPMEN0920-ON
+Gaia Amatteis,29/03/2020,Paid Media,Veronica Cignoli,Contado Plazos,1000,3717,DM0520-EN
+Bruno Gabarrón,31/03/2020,Organic,Joel Orteu,Contado Plazos,300,2700,DTM0920ST
+Meritxell Navau Gil,31/03/2020,Paid Search,Irene Safer,Contado Plazos,300,4095,DTM0520
+Jordi Aguilera Revuelta,31/03/2020,Paid Search,Jorge Jimenez,Plazos,300,4830,DPM0920
+Oseka quadri Jibril,02/04/2020,Direct,Veronica Cignoli,Plazos,300,4130,DM0520-EN
+Alvaro Pont,06/04/2020,Paid Media,Jorge Jimenez,Contado,4968,4968,DSC0520
+Rocío Juanillo Bellver,06/04/2020,Paid Media,Irene Safer,Contado Plazos,2174,4347,DSC0520
+Ruth Carolina Morata Gil,09/04/2020,Direct,Sergio del Frago,Contado Plazos,1000,4347,FSD0620
+David González Montalvo,09/04/2020,Paid Media,Sergio del Frago,Nemuru,2730,2730,UXUI0620STR
+Aglaya Ovsiannikov,11/04/2020,Direct,Jordi Tena,Contado,3717,3717,DM0520-EN
+Cinthya Leticia Valero Rodriguez,14/04/2020,Organic,Jordi Tena,Plazos,1980,4347,DPM0320-ON
+Hamad AlZemami,14/04/2020,Organic,Ahmad Halloun,Plazos,510,4510,DPM0320-ON
+Ignacio Bergadà,17/04/2020,Direct,Joel Orteu,Contado,4968,4968,DSC0520
+Jakob Saalfrank,17/04/2020,Paid Media,Veronica Cignoli,Contado,4347,4347,DPMEN0920-ON
+Pau Navarro i Asensio,17/04/2020,Organic,Jorge Jimenez,Contado Plazos,1000,4347,DPM0920
+Ayelen Tassini,21/04/2020,Paid Media,Jordi Tena,Contado Plazos,1700,2700,DTM0520STR
+Marta de la vega,21/04/2020,Paid Media,Irene Safer,Contado,2700,2700,DTM0520STR
+Xavier Martinez de Francisco,22/04/2020,Direct,Jorge Jimenez,Contado Plazos,1000,4968,DPM0520
+Alex Serra,22/04/2020,Paid Search,Jordi Tena,Contado Plazos,300,3726,DPM0520
+Julie Delevoie,22/04/2020,Organic,Ahmad Halloun,Contado,0,0,DM0520-EN
+Eva Vives,23/04/2020,Organic,Sergio del Frago,Contado Plazos,1000,4968,DSC0520
+Andrés Del Álamo López,23/04/2020,Paid Media,Sergio del Frago,Contado Plazos,1350,2700,DSC0520STR
+Montserrat Polo Alonso,23/04/2020,Paid Search,Irene Safer,Nemuru,2820,2820,DSC0920STR
+Jonatan Carbonell,27/04/2020,Paid Search,Irene Safer,Contado,2700,2700,DSC0520STR
+Gonzalo Campos,28/04/2020,Paid Search,Sergio del Frago,Contado Plazos,300,3717,DM0520-EN
+Saray Alzola,30/04/2020,Paid Media,Joel Orteu,Plazos,300,4830,DSC0520
+Carme de las Heras Coll,30/04/2020,Direct,Joel Orteu,Contado Plazos,150,2700,UXUI0620STR
+Maria Mazur,30/04/2020,Paid Media,Jordi Tena,Plazos,300,4830,DPMEN0920-ON
+Nuria Ruiz Bermejo,04/05/2020,Paid Search,Irene Safer,Nemuru,4422,4422,DSC0520
+Moises Osio,04/05/2020,Paid Search,Sergio del Frago,Plazos,200,3000,DSC0520STR
+Filipa Lima,05/05/2020,Paid Media,Joel Orteu,Contado,2700,2700,DTM0520STR
+Mario Pólit,06/05/2020,Referral,Sergio del Frago,Contado,2700,2700,DTM0520STR
+Javier Ortega,06/05/2020,Organic,Jorge Jimenez,Plazos,1000,4140,DPM0520
+Andreea Dragomir,07/05/2020,Paid Media,Irene Safer,Contado,4720,4720,UXUI0620
+Elizabeth Doyle,07/05/2020,Paid Media,Jordi Tena,Contado Plazos,1000,3717,DM0520-EN
+Bryan Espinoza Collantes,07/05/2020,Paid Media,Irene Safer,Plazos,1300,3000,FSD0620STR
+Carlos Lázaro,08/05/2020,Direct,Joel Orteu,Contado,4095,4095,DTM0520
+Diana Navarro Requena,08/05/2020,Paid Media,Sergio del Frago,Contado,4347,4347,UXUI0620
+Frida Bystrom,09/05/2020,Paid Media,Jordi Tena,Plazos,300,4130,DM0520-EN
+Margherita Vecchi,11/05/2020,Paid Search,Jorge Jimenez,Nemuru,4171,4171,UXUI0620
+David Ibañez,13/05/2020,Organic,Sergio del Frago,Nemuru,4395,4395,DPM0520
+David Almiron Sanchez,13/05/2020,Paid Media,Sergio del Frago,Nemuru,2730,2730,FSD0620STR
+Diego Vázquez,13/05/2020,Paid Media,Joel Orteu,Contado Plazos,1000,2700,UXUI0620STR
+Facundo Herrera,14/05/2020,Paid Search,Jorge Jimenez,Contado Plazos,1000,4347,FSD0620
+Astrid Torras Debant,14/05/2020,Paid Media,Sergio del Frago,Contado,2700,2700,DTM0520STR
+Ana Isern,15/05/2020,Paid Media,Sergio del Frago,Contado,2700,2700,UXUI0620STR
+Daniel Andres Vidal,15/05/2020,Paid Search,Jorge Jimenez,Contado Plazos,1000,4347,FSD0620
+Marcos Iraola,17/05/2020,Paid Search,Joel Orteu,Plazos,500,4830,FSD0620
+Maria Garcia Aledo,19/05/2020,Paid Media,Sergio del Frago,Contado,2700,2700,DTM0520STR
+Hugo Cuesta,19/05/2020,Redes Sociales,Irene Safer,Contado,2565,2565,DPM0520STR
+Anna Borderia,20/05/2020,Paid Media,Jorge Jimenez,Nemuru,2457,2457,DPM0520STR
+David García Sanz,20/05/2020,Paid Media,Sergio del Frago,Nemuru,2730,2730,DSC0920STR
+Zsuzsanna Orosz,21/05/2020,Paid Media,Ahmad Halloun,Plazos,510,4130,DM0520-EN
+Ricardo Leoncio Graner,24/05/2020,Organic,Joel Orteu,Nemuru,2730,2730,DSC0920STR
+Silvia Pignatti,25/05/2020,Organic,Veronica Cignoli,Contado Plazos,1000,3717,DM0520-EN
+Oriol Garcia Caballero,05/05/2020,Direct,Joel Orteu,Plazos,300,4130,B2B0920
+Christian Gutierrez,25/05/2020,Organic,Irene Safer,Contado Plazos,500,2700,B2B0920STR
+Jordi Fornaguera,26/05/2020,Paid Media,Joel Orteu,Contado,4347,4347,DSC0920
+Laura Tébar Padilla,26/05/2020,Paid Media,Sergio del Frago,Contado,2700,2700,DTM0520STR
+Víctor Gonzalo Tejada Delgado,26/05/2020,Paid Media,Joel Orteu,Nemuru,2730,2730,DSC0920STR
+Sadik Cevik,26/05/2020,Paid Media,Veronica Cignoli,Contado Plazos,1500,3345,DM0520-EN
+Sadik Cevik,26/05/2020,Paid Media,Veronica Cignoli,Contado Plazos,2346,4347,DPMEN0920-ON
+Judit Bravo,26/05/2020,Paid Media,Irene Safer,Plazos,300,4422,DSC0920
+Yuliya Zhuk,27/05/2020,Paid Media,Ahmad Halloun,Plazos,500,4830,DPMEN0920-ON
+Maria Camila Ñungo Páez,27/05/2020,Organic,Irene Safer,Plazos,890,3000,DPM0520STR
+Diletta Dallago,27/05/2020,Redes Sociales,Sergio del Frago,Contado,4968,4968,UXUI0620
+Javier Ortega,28/05/2020,Organic,Jorge Jimenez,Contado,0,0,DPM0920
+Beatriz Terreu Mir,28/05/2020,Paid Media,Irene Safer,Contado Plazos,300,2700,UXUI0620STR
+Helena Fernandes,29/05/2020,Paid Media,Jorge Jimenez,Plazos,0,0,UXUI0620
+Julio González,02/06/2020,Paid Media,Sergio del Frago,Contado,2730,2730,FSD0620STR
+Alfonso Yeste Marin,03/06/2020,Paid Media,Jorge Jimenez,Contado Plazos,1000,4588,DSC0920
+Alba Nebot López,04/06/2020,Paid Search,Jordi Tena,Contado,4347,4347,UXUI0620
+Arnau Garcia Mariñosa,05/06/2020,Direct,Joel Orteu,Contado Plazos,500,2700,DTM0920ST
+Alicia Tarrazo de la Fuente,05/06/2020,Paid Media,Otros,Contado,0,0,DPM0920
+Isidro Escoda,05/06/2020,Direct,Jorge Jimenez,Contado Plazos,500,2700,FSD0620STR
+Adriana Muntal,06/06/2020,Paid Media,Sergio del Frago,Contado Plazos,500,4347,DPM0920
+Raúl González Martínez,06/06/2020,Direct,Irene Safer,Contado Plazos,300,2700,DSC0920STR
+Lara Katerine El Bachouti,06/06/2020,Paid Media,Jordi Tena,Plazos,1000,4130,DMEN0920
+Julieta Medina,08/06/2020,Paid Media,Jorge Jimenez,Plazos,1000,3000,DSC0920STR
+Anna Gallart,09/06/2020,Paid Media,Otros,Contado,0,0,DPM0920
+Francisco Jose Diaz Corrales,09/06/2020,Paid Media,Otros,Contado,0,0,DPM0920
+Ivette Mampel,09/06/2020,Paid Media,Irene Safer,Nemuru,4412,4412,UXUI0620STR
+Gerardo Medina Rondon,09/06/2020,Paid Media,Joel Orteu,Plazos,500,4830,UXUI0620
+Mónica Gómez,09/06/2020,Paid Media,Irene Safer,Contado Plazos,800,2700,UXUI0620STR
+Santi Manzano,11/06/2020,Direct,Joel Orteu,Contado,3717,3717,B2B0920
+Gal·la Marti Obradors,12/06/2020,Paid Search,Irene Safer,Contado Plazos,1000,4095,DTM0920
+Adrienn Horvath,12/06/2020,Direct,Ahmad Halloun,Contado,4347,4347,DPMEN0920-ON
+Milton Esteban Braganza,12/06/2020,Paid Media,Irene Safer,Contado Plazos,1000,4347,DSC0920
+joan canovas,,Paid Media,Albert Cobacho,Contado,0,0,DPM0419
+Verónica Inés Corona Hidalgo,15/06/2020,Paid Search,Jorge Jimenez,Plazos,2000,4347,UXUI0620
+Ingrid Morancho Tarda,15/06/2020,Paid Media,Sergio del Frago,Contado,4347,4347,UXUI0620
+Victoria Soledad Genesio,15/06/2020,Paid Media,Jorge Jimenez,Plazos,1000,3375,UXUI0620STR
+Emiliana Flores,15/06/2020,Direct,Sergio del Frago,Contado,4347,4347,DSC0920
+Michaela Karaková,17/06/2020,Direct,Veronica Cignoli,Plazos,1000,3717,DMEN0920
+Sonia Sangtani,18/06/2020,Direct,Veronica Cignoli,Contado Plazos,1000,4347,DPMEN0920-ON
+Montse Cortada Llach,18/06/2020,Paid Media,Sergio del Frago,Contado Plazos,500,2700,DSC0920STR
+Adrian Luna Díaz,19/06/2020,Paid Media,Irene Safer,Contado Plazos,500,3717,DPM0920STR
+Pep Nieto,19/06/2020,Paid Media,Joel Orteu,Contado Plazos,1000,4347,FSD0920
+Carlota Gasso Bernadas,22/06/2020,Organic,Sergio del Frago,Contado,3465,3465,DTM0920ST
+Cristian Giosue,22/06/2020,Direct,Joel Orteu,Plazos,500,4830,FSD0920
+Elizabeth Perez,22/06/2020,Paid Search,Jorge Jimenez,Contado Plazos,1000,3717,DSC0920STR
+Laura Pey Saumell,23/06/2020,Direct,Joel Orteu,Contado Plazos,1000,4347,DPM0920
+Gabriela Santos Viana,23/06/2020,Direct,Irene Safer,Plazos,500,4830,FSD0920
+Pablo Lopez,24/06/2020,Direct,Jorge Jimenez,Contado Plazos,1000,4347,FSD0920
+Rafael Cid Garcia,25/06/2020,Paid Media,Sergio del Frago,Contado Plazos,1000,3465,DTM0920ST
+Kata Márton,25/06/2020,Organic,Joanne Mattar,Plazos,500,4130,DMEN0920
+Sergi Cercós Cuñat,05/06/2020,Organic,Irene Safer,Plazos,500,5520,DSC0920
+,,Paid Media,Ahmad Halloun,Contado,0,0,DPM0419
+Carla Pavía Sebastian,26/06/2020,Paid Search,Sergio del Frago,Contado,4347,4347,FSD0920
+Steven Raymonde,27/06/2020,Paid Media,Ahmad Halloun,Plazos,800,4130,DMEN0920
+Mohamed Moby Albalawi,27/06/2020,Paid Media,Veronica Cignoli,Plazos,500,4347,DPMEN0920-ON
+Kamal Al Muani,27/06/2020,Paid Media,Jordi Tena,Plazos,1000,4130,DMEN0920
+Cristina Picatoste Olloqui,27/06/2020,Paid Media,Joel Orteu,Plazos,500,4830,FSD0920
+Mark Smith,26/06/2020,Paid Media,Veronica Cignoli,Plazos,500,4130,DMEN0920
+Dídac Balaguer Gálvez,28/06/2020,Direct,Joel Orteu,Plazos,500,5520,DSC0920
+Margarida da Piedade Dinis,29/06/2020,Paid Media,Sergio del Frago,Contado Plazos,2968,4968,DPM0920
+Luis Jesús Garrido Gómez,29/06/2020,Organic,Sergio del Frago,Contado,4968,4968,DPM0920
+Andrés Sanz,29/06/2020,Organic,Joel Orteu,Contado Plazos,500,4968,DSC0920
+Elis Alvarez Gonzalez,26/06/2020,Paid Search,Jorge Jimenez,Nemuru,4648,4648,FSD0920
+Clara Capellades,30/06/2020,Direct,Irene Safer,Contado Plazos,500,4347,DTM0920
+Oriol Rubio,30/06/2020,Paid Search,Sergio del Frago,Contado Plazos,300,4347,DTM0920
+Andrea Fernandez,01/07/2020,Direct,Sergio del Frago,Contado Plazos,1000,4347,DTM0920
+Luis Enrique Sánchez Betancourt,03/07/2020,Paid Search,Jorge Jimenez,Contado,4968,4968,DSC0920
+Raúl Sastre,05/07/2020,Paid Search,Sergio del Frago,Contado Plazos,1000,4779,DSC0920STR
+Josefina Repetto,05/07/2020,Paid Search,Joel Orteu,Contado Plazos,500,4968,DSC0920
